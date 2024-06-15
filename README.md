@@ -1,41 +1,13 @@
-# Pizzeria Website Concept
+# Pizzeria Website
 
-This project is a concept for a generic pizzeria website, transitioning from a basic site to a fully customized web application. It is developed using [Next.js](https://nextjs.org/) to provide better performance, flexibility, and control over the site's design and functionality. The project was bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Welcome to the official repository for the Pizzeria Website project. This project aims to provide a comprehensive solution for pizzerias to establish their online presence and showcase their menu. With a focus on ease of use and responsiveness, this project is designed to help your pizzeria stand out in the digital space.
 
-## Getting Started
+## Features
 
-To get started with the project, follow these steps:
+- **Dynamic Menu Display**: Easily manage and showcase your pizzeria's menu. Add, remove, or update items with just a few clicks.
+- **Contact Information**: Make it easy for your customers to find you. Display your location, hours of operation, and contact details prominently.
+- **Responsive Design**: Ensure a great user experience across all devices. Our design adapts to desktop and mobile screens, providing a consistent look and feel.
 
-### Development Server
+## License
 
-First, run the development server:
-
-```bash
-npm run dev
-
-# or
-
-yarn dev
-
-# or
-
-pnpm dev
-
-# or
-
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
-
-## Project Details
-
-### Purpose
-
-The "Pizzeria Website Concept" aims to provide a template for building a pizzeria website. This includes features like menu display, and contact information.
-
-### Technologies Used
-
-- **Next.js**: React framework for server-side rendering and generating static websites.
-- **TypeScript**: Typed superset of JavaScript for better type checking.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
